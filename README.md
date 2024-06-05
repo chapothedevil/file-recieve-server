@@ -25,4 +25,5 @@ This repository contains a simple HTTP server script for uploading files from a 
 **python3 upload_server.py**
 
 ### On Windows Machine
+   ```sh
 curl -F "file=@C:\Users\YourUsername\file.zip" http://YourMachine'sIp:8000
