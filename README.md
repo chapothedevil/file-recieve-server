@@ -19,5 +19,5 @@ This repository contains a simple HTTP server script for uploading files from a 
 1. **Clone the Repository:**
 
    ```sh
-   git clone https://github.com/yourusername/simple-file-upload-server.git
+   git clone https://github.com/chapothedevil/simple-file-upload-server.git
    cd simple-file-upload-server
