@@ -21,8 +21,8 @@ This repository contains a simple HTTP server script for uploading files from a 
    ```sh
    git clone https://github.com/chapothedevil/simple-file-upload-server.git
    cd simple-file-upload-server
-###Usage
+### Usage
 **python3 upload_server.py**
 
-###On Windows Machine
+### On Windows Machine
 curl -F "file=@C:\Users\YourUsername\file.zip" http://YourMachine'sIp:8000
